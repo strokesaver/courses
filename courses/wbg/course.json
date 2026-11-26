@@ -8,7 +8,7 @@
   "par": 72,
   "holesTotal": 18,
   "tier": "full",
-  "scorecardVerified": true,
+  "scorecardVerified": false,
   "parSource": "scorecard",
   "holes": [
     {
@@ -292,7 +292,7 @@
     "source": "geoportal",
     "demResolutionM": 1.0
   },
-  "builtAt": "2026-11-16T07:13:03Z",
+  "builtAt": "2026-11-26T07:37:58Z",
   "scorecardTees": [
     {
       "id": "63",

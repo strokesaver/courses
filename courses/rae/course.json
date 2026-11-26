@@ -224,7 +224,7 @@
     {
       "number": 16,
       "par": 5,
-      "lengthM": 487,
+      "lengthM": 498,
       "file": "hole16",
       "handicap": 14,
       "name": null,
@@ -274,7 +274,7 @@
     "source": "geoportal",
     "demResolutionM": 1.0
   },
-  "builtAt": "2026-11-16T07:15:25Z",
+  "builtAt": "2026-11-26T07:35:46Z",
   "scorecardTees": [
     {
       "id": "white",
