@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "generatedAt": "2026-11-26T20:40:42Z",
+  "generatedAt": "2026-11-27T07:29:52Z",
   "courses": [
     {
       "id": "egcc-sea",
@@ -88,8 +88,8 @@
       "holesTotal": 18,
       "tier": "full",
       "par": 72,
-      "version": "2026-11-16T07:10:46Z",
-      "bytes": 14542659,
+      "version": "2026-11-26T07:53:16Z",
+      "bytes": 14543037,
       "manifest": "courses/parnubay/manifest.json",
       "thumb": "courses/parnubay/thumb.jpg",
       "holesMapped": 18,

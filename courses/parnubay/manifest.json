@@ -1,11 +1,11 @@
 {
   "id": "parnubay",
-  "version": "2026-11-16T07:10:46Z",
+  "version": "2026-11-26T07:53:16Z",
   "files": [
     {
       "path": "course.json",
       "bytes": 6664,
-      "sha256": "f926d3c9fe9783f5c5639f292a4e4be1f64f1ad336d32f4967f1f3f06844b543"
+      "sha256": "155815d004540c388bdf89de07c03d0384863404a232a902ab8674d4029a7559"
     },
     {
       "path": "hole01.canopy",
@@ -270,7 +270,7 @@
     {
       "path": "hole14.canopy",
       "bytes": 8236,
-      "sha256": "6561a65be14bac324ceca851d564d2daec27ae6da20fa13a0224c3baafca0193"
+      "sha256": "993a184450278d6d2a9b2083aa3c361fadf899ca843ebae7ff59898cee186681"
     },
     {
       "path": "hole14.elev",
@@ -284,13 +284,13 @@
     },
     {
       "path": "hole14.json",
-      "bytes": 45581,
-      "sha256": "3f115da4119fb3058ecfcf4d8053b8d68655c0cf0f4c6b4525cf5a97f3854cce"
+      "bytes": 45768,
+      "sha256": "bdcbd361600cd40ba8e957aeb3d34407d675082fac531c2cefbc2cd0a78277c6"
     },
     {
       "path": "hole15.canopy",
       "bytes": 27216,
-      "sha256": "b5d5d87f97d2f5ea1b0f86875fa9b087d9050da45dd4446ab6a91d57e0695f2a"
+      "sha256": "c9aabb390824331efd3b68ddee712d8fdc03504380ab7e21b909e0f12db1e588"
     },
     {
       "path": "hole15.elev",
@@ -304,8 +304,8 @@
     },
     {
       "path": "hole15.json",
-      "bytes": 53453,
-      "sha256": "bafd31e8c7d129958b762f127df5cb78178b4328968a7a02be4ad206d0b3477c"
+      "bytes": 53644,
+      "sha256": "edc525e729e0c0d685ddfa1ccb3cfa8ca76e4bff223828641564ed7d6bf988da"
     },
     {
       "path": "hole16.canopy",
